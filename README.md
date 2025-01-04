@@ -42,6 +42,8 @@ Full-stack web developer with experience building robust APIs, crafting appealin
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:richforeverrr6@proton.me)
 
 ---
+![LeetCode Stats](https://leetcard.jacoblin.cool/jay6o?border=0&radius=20&ext=heatmap)
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=jay6o&show_icons=true&theme=dark)
+<!--![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=jay6o&show_icons=true&theme=dark)
 ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jay6o&theme=dark&layout=donut)
+-->
