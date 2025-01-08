@@ -9,7 +9,6 @@ Full-stack web developer with experience building robust APIs, crafting appealin
 - Algorithm Development
 - Automation
 - Data Analysis
-- Client Acquisition
 
 
 ### 🛠️ Tech Stack
